@@ -1,0 +1,25 @@
+# Build
+/target
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+.zed/
+.helix/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.tmp
+*.bak
+*.orig
+*.md

@@ -1,0 +1,14 @@
+[package]
+name = "zam"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "zam"
+path = "src/main.rs"
+
+[dependencies]
+ratatui = "0.30"
+crossterm = "0.29"
+dirs = "6"
+thiserror = "2"
